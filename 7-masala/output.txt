@@ -1,0 +1,9 @@
+apple
+amazon
+google
+microsoft
+linkedin
+facebook
+rockstar
+yandex
+notion
