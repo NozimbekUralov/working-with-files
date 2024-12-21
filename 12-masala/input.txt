@@ -1,0 +1,9 @@
+Islom: 40
+Ali: 80
+Muhammadjon: 90
+Muzaffar: 59
+Samandar: 54
+Abdusamiy: 65
+Dilnora: 89
+Sadoqat : 85
+Xojiakbar: 45

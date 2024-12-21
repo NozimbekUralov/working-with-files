@@ -1,0 +1,4 @@
+Islom : 40
+Muzaffar : 59
+Samandar : 54
+Xojiakbar : 45
