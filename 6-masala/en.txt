@@ -1,0 +1,7 @@
+appple
+cherry
+strawberry
+peach
+pomegranate
+banana
+apricot
